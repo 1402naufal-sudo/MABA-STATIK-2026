@@ -107,6 +107,7 @@ Nama Lengkap (NIM) - Nama Kelompok
 
 Apabila kamu mengalami kendala teknis atau memiliki pertanyaan selama proses pengerjaan, silakan menghubungi Divisi Penugasan melalui saluran komunikasi resmi angkatan.
 
-Jika salah di format penamaan tidak perlu melakukan record ulang, silahkan lakukan revisi di pull request nya saja
+**Jika salah di format penamaan tidak perlu melakukan record ulang, silahkan lakukan revisi di pull request nya saja**
+**PERHATIKAN LAGI FORMAT PENAMAANNYA!!**
 
 Selamat mengerjakan dan selamat bergabung di Teknik Informatika 2026! 
